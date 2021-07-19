@@ -1,5 +1,6 @@
 /.idea/
 .DS_Store
+/response.json
 
 # Local .terraform directories
 **/.terraform/*
